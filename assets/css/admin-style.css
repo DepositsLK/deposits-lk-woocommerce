@@ -1,0 +1,10 @@
+.order-status.status-pending-approval{
+	background: #6b55c1; 
+    color: #ffffff;
+}
+
+
+.order-status.status-pending-slip{
+	background: #55c16c;
+    color: #ffffff;
+}
